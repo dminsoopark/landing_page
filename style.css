@@ -98,3 +98,11 @@ button {
     align-content: center;
     align-items: flex-end;
 }
+
+.top > .right-side {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+}
