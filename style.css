@@ -12,7 +12,10 @@ body {
     height: 72px;
     flex: 0 0 100%;
     justify-content: space-between;
-    padding: 80px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
     align-items: center;
 }
 
