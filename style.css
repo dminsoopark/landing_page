@@ -24,7 +24,8 @@ body {
 
 .left-side {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
+    justify-content: flex-start;
 }
 
 ul {
@@ -45,7 +46,7 @@ a {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 
 .hero-main {
