@@ -88,3 +88,13 @@ button {
     border: 1px solid #3882F6;
     color: white;
   }
+
+.placeholder {
+    width: 500px;
+    height: 200px;
+    background-color: #6c747d;
+    color: #F9FAF8;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-end;
+}
