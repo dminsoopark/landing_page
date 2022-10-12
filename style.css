@@ -101,9 +101,15 @@ button {
     align-items: center;
 }
 
-.left-side, .right-side {
+.right-side {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
