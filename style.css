@@ -25,6 +25,11 @@ body {
     color: #F9FAF8;
 }
 
+.navbar {
+    display: flex;
+    flex: 0 0 100%;
+}
+
 .navbar, .left-side {
     display: flex;
     align-items: center;
