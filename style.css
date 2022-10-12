@@ -10,7 +10,7 @@ body {
     background-color: #1F2937;
     display: flex;
     height: 72px;
-    flex: 1 0 100%;
+    flex: 0 0 100%;
     justify-content: space-between;
     padding: 8px;
 }
