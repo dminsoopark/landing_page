@@ -69,7 +69,6 @@ a {
     display: flex;
     flex: 0 0 100%;
     margin-top: 100px;
-    flex-direction: row;
 }
 
 .hero-second {
