@@ -67,7 +67,7 @@ a {
 
 .top {
     display: flex;
-    flex: 0 0 50%;
+    flex: 0 0 100%;
     margin-top: 100px;
     flex-direction: column;
 }
@@ -101,8 +101,9 @@ button {
     align-items: center;
 }
 
-.right-side {
+.left-side, .right-side {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
+
