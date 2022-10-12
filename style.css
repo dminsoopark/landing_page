@@ -62,3 +62,8 @@ a {
     font-weight: 800;
     color: #F9FAF8;
 }
+
+.top {
+    display: flex;
+    flex: 0 0 100%;
+}
