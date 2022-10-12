@@ -102,5 +102,6 @@ button {
 
 .top > .right-side {
     display: flex;
+    flex-direction: row;
     justify-content: flex-end;
 }
