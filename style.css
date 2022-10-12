@@ -30,6 +30,7 @@ body {
 ul {
     list-style: none;
     display: flex;
+    align-content: space-around;
 }
 
 a {
