@@ -69,3 +69,11 @@ a {
     display: flex;
     flex: 0 0 100%;
 }
+
+.hero-second {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 350px;
+    flex-wrap: wrap;
+}
