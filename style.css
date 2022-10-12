@@ -22,10 +22,10 @@ body {
     color: #F9FAF8;
 }
 
-.left-side {
+/* .left-side {
     display: flex;
     align-items: flex-start;
-}
+} */
 
 ul {
     list-style: none;
