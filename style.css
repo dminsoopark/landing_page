@@ -100,7 +100,7 @@ button {
     align-items: center;
 }
 
-.top > .right-side {
+.right-side {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
