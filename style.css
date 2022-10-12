@@ -61,6 +61,8 @@ a {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    width: 300px;
+    flex-wrap: wrap;
 }
 
 .top {
