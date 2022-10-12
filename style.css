@@ -8,13 +8,13 @@ body {
 
 .header {
     background-color: #1F2937;
-    font-weight: 900;
     display: flex;
     flex: 1;
 }
 
 .logo {
     font-size: 24px;
+    font-weight: 700;
     color: #F9FAF8;
 }
 
