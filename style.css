@@ -22,10 +22,10 @@ body {
     color: #F9FAF8;
 }
 
-/* .left-side {
+.left-side {
     display: flex;
     align-items: flex-start;
-} */
+}
 
 ul {
     list-style: none;
@@ -45,7 +45,7 @@ a {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .hero-main {
