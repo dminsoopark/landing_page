@@ -19,5 +19,21 @@ header {
 
 .left-side {
     display: flex;
-    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.right-side {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
 }
