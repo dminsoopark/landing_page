@@ -100,9 +100,4 @@ button.sign-up {
     align-items: center;
 }
 
-.header > .top > .right-side {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-}
 
