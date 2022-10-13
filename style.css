@@ -136,3 +136,11 @@ button.sign-up {
     text-align: center;
     gap: 52px;
 }
+
+.subtext {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 200px;
+}
