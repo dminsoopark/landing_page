@@ -161,13 +161,12 @@ button.sign-up {
 .quote {
     font-size: 30px;
     font-style: italic;
+    font-weight: lighter;
     color: #1F2937;
     width: 800px;
 }
 
 .speaker {
     font-size: 20px;
-    font-weight: 500;
-    display: flex;
-    align-items: flex-end;
+    font-weight: 600;
 }
