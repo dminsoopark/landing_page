@@ -136,7 +136,7 @@ button.sign-up {
     justify-content: center;
     align-items: center;
     text-align: center;
-    gap: 40px;
+    gap: 20px;
 }
 
 .subtext {
@@ -159,9 +159,15 @@ button.sign-up {
 }
 
 .quote {
-    font-size: 36px;
+    font-size: 30px;
     font-style: italic;
-    font-weight: lighter;
     color: #1F2937;
     width: 800px;
+}
+
+.speaker {
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
 }
