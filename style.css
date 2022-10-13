@@ -232,7 +232,7 @@ button.sign-up-2 {
 .footer {
     height: 72px;
     background: #1F2937;
-    color: white
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
