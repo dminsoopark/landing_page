@@ -155,6 +155,7 @@ button.sign-up {
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: #E5E7EB;
+    flex: 0 0 900px;
 }
 
 .quote {
