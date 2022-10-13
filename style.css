@@ -145,3 +145,21 @@ button.sign-up {
     align-items: center;
     flex: 0 0 200px;
 }
+
+.third {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
