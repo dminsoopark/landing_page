@@ -191,17 +191,29 @@ button.sign-up {
   border-radius: 10px;
   gap: 16px;
   padding: 20px 30px;
+  align-items: center;
 }
 
 .container {
     display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    justify-content: center;
+    flex: 0 0 100%;
+    justify-content: space-between;
 }
 
 button.sign-up-2 {
     background: #3882F6;
     border: 1px solid white;
     color: white
+}
+
+.left-modal {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.right-modal {
+    display: flex;
+    flex-direction: row-reverse;
 }
