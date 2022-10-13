@@ -176,3 +176,24 @@ button.sign-up {
     display: flex;
     justify-content: flex-end;
 }
+
+.fourth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.modal {
+  background: #3882F6;
+  width: 800px;
+  border-radius: 10px;
+  display: flex;
+  gap: 16px;
+  padding: 20px 30px;
+}
+
+.container {
+    
+}
