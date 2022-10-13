@@ -123,7 +123,6 @@ button.sign-up {
     justify-content: center;
     flex-direction: column;
     padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 .section-title {
@@ -132,11 +131,14 @@ button.sign-up {
     color: #1F2937;
     display: flex;
     justify-content: center;
+    padding-bottom: 30px;
 }
 
 .subtext {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: row nowrap;
     justify-content: center;
-    align-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 52px;
 }
