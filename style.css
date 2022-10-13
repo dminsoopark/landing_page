@@ -228,3 +228,13 @@ button.sign-up-2 {
     color: white;
     font-size: smaller;
 }
+
+.footer {
+    height: 72px;
+    background: #1F2937;
+    color: white
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+  }
