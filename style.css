@@ -114,4 +114,17 @@ button.sign-up {
 
 .information {
     display: flex;
+    justify-content: center;
+
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+}
+
+.section-title {
+    font-weight: 800;
+    font-size: 36px;
+    color: #1F2937;
 }
