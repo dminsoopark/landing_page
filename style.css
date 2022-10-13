@@ -190,7 +190,7 @@ button.sign-up {
   width: 800px;
   border-radius: 10px;
   gap: 16px;
-  padding: 20px 30px;
+  padding: 40px 60px;
   align-items: center;
 }
 
@@ -198,6 +198,7 @@ button.sign-up {
     display: flex;
     flex: 0 0 100%;
     justify-content: space-between;
+    align-items: center;
 }
 
 button.sign-up-2 {
@@ -216,4 +217,14 @@ button.sign-up-2 {
 .right-modal {
     display: flex;
     flex-direction: row-reverse;
+}
+
+.call-to-action {
+    color: white;
+    font-weight: 700;
+}
+
+.cta-desc {
+    color: white;
+    font-size: smaller;
 }
