@@ -122,10 +122,13 @@ button.sign-up {
     display: flex;
     justify-content: center;
     flex-direction: column;
+
 }
 
 .section-title {
     font-weight: 800;
     font-size: 36px;
     color: #1F2937;
+    display: flex;
+    justify-content: center;
 }
