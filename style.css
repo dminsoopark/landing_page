@@ -192,8 +192,9 @@ button.sign-up {
   display: flex;
   gap: 16px;
   padding: 20px 30px;
+  flex-flow: column wrap;
 }
 
 .container {
-    
+
 }
