@@ -199,3 +199,9 @@ button.sign-up {
     align-items: center;
     justify-content: stretch;
 }
+
+button.sign-up-2 {
+    background: #3882F6;
+    border: 1px solid white;
+    color: white
+}
