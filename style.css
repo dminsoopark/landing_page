@@ -197,7 +197,7 @@ button.sign-up {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-    justify-content: stretch;
+    justify-content: center;
 }
 
 button.sign-up-2 {
