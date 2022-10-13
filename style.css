@@ -10,10 +10,10 @@ body {
     background-color: #1F2937;
     height: 72px;
     flex: 0 0 100%;
-    padding-left: 250px;
+    padding-left: 300px;
     padding-top: 10px;
-    padding-right: 250px;
-    padding-bottom: 50px;
+    padding-right: 300px;
+    padding-bottom: 200px;
     align-items: center;
 }
 
