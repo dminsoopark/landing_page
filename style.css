@@ -82,8 +82,10 @@ a {
 }
 
 button {
-    padding: 8px 25px;
+    padding: 8px 30px;
     border-radius: 8px;
+    font-weight: 300;
+    margin-top: 5em;
   }
 
 button.sign-up {
